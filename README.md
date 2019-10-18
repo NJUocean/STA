@@ -40,7 +40,7 @@ define i32 @main() #0 {
 ; <label>:10:                                     ; preds = %7
   %11 = load i32, i32* %2, align 4
   %12 = add nsw i32 %11, 1
-  store i32 %12, i32* %2, align 4
+'  store i32 %12, i32* %2, align 4'
   br label %4
 
 ; <label>:13:                                     ; preds = %4
