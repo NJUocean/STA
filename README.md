@@ -1,9 +1,8 @@
-### 软件分析测试第二次作业
-<font face="微软雅黑" color=red size=10>dz1933028 王洋</font>
----
-	ubuntu18.04
-	clang 6.0
----
+# 软件分析测试第二次作业
+_dz1933028 王洋_
+ubuntu18.04
+clang 6.0
+
 ```C
 #include<stdio.h>
 
