@@ -18,6 +18,6 @@ int main(void){
 `clang -S -o hw.ll hw.c`
 得到中间表示hw.ll，如下图所示：
 
-![](https://github.com/NJUocean/STA/blob/master/SSA.png?raw=true)
+![](SSA.png)
 
 可以看到被黑框圈出来的%2地址被store语句写入两次，所以是部分SSA
